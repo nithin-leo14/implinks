@@ -22,6 +22,12 @@ https://codepen.io/
 http://www.bypeople.com/
 http://www.snipplr.com
 http://jsfiddle.net/ (writing and sharing codes: supports basic and j query, angularjs and others)
+
+Q&A
+
+https://www.quora.com
+https://stackoverflow.com/
+
 Collaboration tool
 
 https://www.hipchat.com/
